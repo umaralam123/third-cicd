@@ -1,5 +1,5 @@
 YAML
-name: Build and Deploy HTML Page
+- name: Build and Deploy HTML Page
 
 on:
   push:
